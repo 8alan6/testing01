@@ -1,3 +1,4 @@
+#!/usr/bin/env python -u
 import datetime
 print("Hello world!")
 now = datetime.datetime.now()
